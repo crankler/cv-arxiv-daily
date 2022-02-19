@@ -41,6 +41,15 @@
 - 2021-12-06, **Dense Depth Priors for Neural Radiance Fields from Sparse Input Views**, Barbara Roessle et.al., Paper: [http://arxiv.org/abs/2112.03288v1](http://arxiv.org/abs/2112.03288v1)
 - 2021-12-10, **MegBA: A High-Performance and Distributed Library for Large-Scale Bundle Adjustment**, Jie Ren et.al., Paper: [http://arxiv.org/abs/2112.01349v2](http://arxiv.org/abs/2112.01349v2), Code: **[https://github.com/megviirobot/megba](https://github.com/megviirobot/megba)**
 - 2021-11-11, **Multi-Resolution Elevation Mapping and Safe Landing Site Detection with Applications to Planetary Rotorcraft**, Pascal Schoppmann et.al., Paper: [http://arxiv.org/abs/2111.06271v1](http://arxiv.org/abs/2111.06271v1)
+- 2021-11-10, **Damage Estimation and Localization from Sparse Aerial Imagery**, Rene Garcia Franceschini et.al., Paper: [http://arxiv.org/abs/2111.03708v2](http://arxiv.org/abs/2111.03708v2)
+- 2021-11-03, **Event and Activity Recognition in Video Surveillance for Cyber-Physical Systems**, Swarnabja Bhaumik et.al., Paper: [http://arxiv.org/abs/2111.02064v1](http://arxiv.org/abs/2111.02064v1)
+- 2021-10-14, **Modeling dynamic target deformation in camera calibration**, Annika Hagemann et.al., Paper: [http://arxiv.org/abs/2110.07322v1](http://arxiv.org/abs/2110.07322v1)
+- 2021-10-13, **Hyperspectral 3D Mapping of Underwater Environments**, Maxime Ferrera et.al., Paper: [http://arxiv.org/abs/2110.06571v1](http://arxiv.org/abs/2110.06571v1)
+- 2021-09-16, **Rotation Averaging in a Split Second: A Primal-Dual Method and a Closed-Form for Cycle Graphs**, Gabriel Moreira et.al., Paper: [http://arxiv.org/abs/2109.08046v1](http://arxiv.org/abs/2109.08046v1), Code: **[https://github.com/gabmoreira/maks](https://github.com/gabmoreira/maks)**
+- 2021-09-06, **Single-Camera 3D Head Fitting for Mixed Reality Clinical Applications**, Tejas Mane et.al., Paper: [http://arxiv.org/abs/2109.02740v1](http://arxiv.org/abs/2109.02740v1)
+- 2021-09-02, **Dynamic Scene Novel View Synthesis via Deferred Spatio-temporal Consistency**, Beatrix-Emőke Fülöp-Balogh et.al., Paper: [http://arxiv.org/abs/2109.01018v1](http://arxiv.org/abs/2109.01018v1)
+- 2021-09-01, **On the Limits of Pseudo Ground Truth in Visual Camera Re-localisation**, Eric Brachmann et.al., Paper: [http://arxiv.org/abs/2109.00524v1](http://arxiv.org/abs/2109.00524v1), Code: **[https://github.com/tsattler/visloc_pseudo_gt_limitations](https://github.com/tsattler/visloc_pseudo_gt_limitations)**
+- 2021-08-31, **DensePose 3D: Lifting Canonical Surface Maps of Articulated Objects to the Third Dimension**, Roman Shapovalov et.al., Paper: [http://arxiv.org/abs/2109.00033v1](http://arxiv.org/abs/2109.00033v1)
 
 ## Visual Localization
 
@@ -48,14 +57,22 @@
 - 2022-02-11, **Patch-NetVLAD+: Learned patch descriptor and weighted matching strategy for place recognition**, Yingfeng Cai et.al., Paper: [http://arxiv.org/abs/2202.05738v1](http://arxiv.org/abs/2202.05738v1)
 - 2022-02-09, **Object-Guided Day-Night Visual Localization in Urban Scenes**, Assia Benbihi et.al., Paper: [http://arxiv.org/abs/2202.04445v1](http://arxiv.org/abs/2202.04445v1)
 - 2022-02-08, **A Novel Image Descriptor with Aggregated Semantic Skeleton Representation for Long-term Visual Place Recognition**, Nie Jiwei et.al., Paper: [http://arxiv.org/abs/2202.03677v1](http://arxiv.org/abs/2202.03677v1)
+- 2022-02-05, **DEVO: Depth-Event Camera Visual Odometry in Challenging Conditions**, Yi-Fan Zuo et.al., Paper: [http://arxiv.org/abs/2202.02556v1](http://arxiv.org/abs/2202.02556v1)
 - 2022-02-03, **Danish Airs and Grounds: A Dataset for Aerial-to-Street-Level Place Recognition and Localization**, Andrea Vallone et.al., Paper: [http://arxiv.org/abs/2202.01821v1](http://arxiv.org/abs/2202.01821v1)
 - 2022-02-02, **Training Semantic Descriptors for Image-Based Localization**, Ibrahim Cinaroglu et.al., Paper: [http://arxiv.org/abs/2202.01212v1](http://arxiv.org/abs/2202.01212v1)
 - 2022-01-31, **Hydra: A Real-time Spatial Perception Engine for 3D Scene Graph Construction and Optimization**, Nathan Hughes et.al., Paper: [http://arxiv.org/abs/2201.13360v1](http://arxiv.org/abs/2201.13360v1)
 - 2022-01-31, **Rigidity Preserving Image Transformations and Equivariance in Perspective**, Lucas Brynte et.al., Paper: [http://arxiv.org/abs/2201.13065v1](http://arxiv.org/abs/2201.13065v1)
 - 2022-01-25, **Learning Semantics for Visual Place Recognition through Multi-Scale Attention**, Valerio Paolicelli et.al., Paper: [http://arxiv.org/abs/2201.09701v2](http://arxiv.org/abs/2201.09701v2)
 - 2022-01-22, **Phase-SLAM: Phase Based Simultaneous Localization and Mapping for Mobile Structured Light Illumination Systems**, Xi Zheng et.al., Paper: [http://arxiv.org/abs/2201.09048v1](http://arxiv.org/abs/2201.09048v1), Code: **[https://github.com/zhengxi-git/phase-slam](https://github.com/zhengxi-git/phase-slam)**
+- 2022-01-17, **SC-LiDAR-SLAM: a Front-end Agnostic Versatile LiDAR SLAM System**, Giseop Kim et.al., Paper: [http://arxiv.org/abs/2201.06423v1](http://arxiv.org/abs/2201.06423v1)
 - 2022-01-15, **A Critical Analysis of Image-based Camera Pose Estimation Techniques**, Meng Xu et.al., Paper: [http://arxiv.org/abs/2201.05816v1](http://arxiv.org/abs/2201.05816v1)
 - 2022-01-14, **SRVIO: Super Robust Visual Inertial Odometry for dynamic environments and challenging Loop-closure conditions**, Ali Samadzadeh et.al., Paper: [http://arxiv.org/abs/2201.05386v1](http://arxiv.org/abs/2201.05386v1), Code: **[https://github.com/aa-samad/srvio](https://github.com/aa-samad/srvio)**
+- 2022-01-10, **Why-So-Deep: Towards Boosting Previously Trained Models for Visual Place Recognition**, M. Usman Maqbool Bhutta et.al., Paper: [http://arxiv.org/abs/2201.03212v1](http://arxiv.org/abs/2201.03212v1)
+- 2022-01-06, **TransVPR: Transformer-based place recognition with multi-level attention aggregation**, Ruotong Wang et.al., Paper: [http://arxiv.org/abs/2201.02001v1](http://arxiv.org/abs/2201.02001v1)
+- 2022-01-05, **Multi-layer VI-GNSS Global Positioning Framework with Numerical Solution aided MAP Initialization**, Bing Han et.al., Paper: [http://arxiv.org/abs/2201.01561v1](http://arxiv.org/abs/2201.01561v1)
+- 2021-12-24, **Benchmarking Pedestrian Odometry: The Brown Pedestrian Odometry Dataset (BPOD)**, David Charatan et.al., Paper: [http://arxiv.org/abs/2112.13018v1](http://arxiv.org/abs/2112.13018v1)
+- 2021-12-23, **Multi-Camera Sensor Fusion for Visual Odometry using Deep Uncertainty Estimation**, Nimet Kaygusuz et.al., Paper: [http://arxiv.org/abs/2112.12818v1](http://arxiv.org/abs/2112.12818v1)
+- 2021-12-23, **MDN-VO: Estimating Visual Odometry with Confidence**, Nimet Kaygusuz et.al., Paper: [http://arxiv.org/abs/2112.12812v1](http://arxiv.org/abs/2112.12812v1)
 - 2021-12-23, **NinjaDesc: Content-Concealing Visual Descriptors via Adversarial Learning**, Tony Ng et.al., Paper: [http://arxiv.org/abs/2112.12785v1](http://arxiv.org/abs/2112.12785v1)
 - 2021-12-16, **CrossLoc: Scalable Aerial Localization Assisted by Multimodal Synthetic Data**, Qi Yan et.al., Paper: [http://arxiv.org/abs/2112.09081v1](http://arxiv.org/abs/2112.09081v1), Code: **[https://github.com/topo-epfl/crossloc](https://github.com/topo-epfl/crossloc)**
 - 2021-12-05, **RADA: Robust Adversarial Data Augmentation for Camera Localization in Challenging Weather**, Jialu Wang et.al., Paper: [http://arxiv.org/abs/2112.02469v1](http://arxiv.org/abs/2112.02469v1)
@@ -82,6 +99,13 @@
 - 2021-12-19, **Parallel Multi-Scale Networks with Deep Supervision for Hand Keypoint Detection**, Renjie Li et.al., Paper: [http://arxiv.org/abs/2112.10275v1](http://arxiv.org/abs/2112.10275v1)
 - 2021-12-19, **GPU optimization of the 3D Scale-invariant Feature Transform Algorithm and a Novel BRIEF-inspired 3D Fast Descriptor**, Jean-Baptiste Carluer et.al., Paper: [http://arxiv.org/abs/2112.10258v1](http://arxiv.org/abs/2112.10258v1), Code: **[https://github.com/carluerjb/3d_sift_cuda](https://github.com/carluerjb/3d_sift_cuda)**
 - 2021-12-16, **Masked Feature Prediction for Self-Supervised Visual Pre-Training**, Chen Wei et.al., Paper: [http://arxiv.org/abs/2112.09133v1](http://arxiv.org/abs/2112.09133v1)
+- 2021-12-13, **DenseGAP: Graph-Structured Dense Correspondence Learning with Anchor Points**, Zhengfei Kuang et.al., Paper: [http://arxiv.org/abs/2112.06910v1](http://arxiv.org/abs/2112.06910v1)
+- 2021-12-12, **Few-shot Keypoint Detection with Uncertainty Learning for Unseen Species**, Changsheng Lu et.al., Paper: [http://arxiv.org/abs/2112.06183v1](http://arxiv.org/abs/2112.06183v1)
+- 2021-12-13, **Few-Shot Keypoint Detection as Task Adaptation via Latent Embeddings**, Mel Vecerik et.al., Paper: [http://arxiv.org/abs/2112.04910v2](http://arxiv.org/abs/2112.04910v2)
+- 2022-02-05, **ALIKE: Accurate and Lightweight Keypoint Detection and Descriptor Extraction**, Xiaoming Zhao et.al., Paper: [http://arxiv.org/abs/2112.02906v2](http://arxiv.org/abs/2112.02906v2), Code: **[https://github.com/Shiaoming/ALIKE](https://github.com/Shiaoming/ALIKE)**
+- 2021-11-25, **Attend to Who You Are: Supervising Self-Attention for Keypoint Detection and Instance-Aware Association**, Sen Yang et.al., Paper: [http://arxiv.org/abs/2111.12892v1](http://arxiv.org/abs/2111.12892v1), Code: **[https://github.com/yangsenius/ssa](https://github.com/yangsenius/ssa)**
+- 2021-11-08, **Template NeRF: Towards Modeling Dense Shape Correspondences from Category-Specific Object Images**, Jianfei Guo et.al., Paper: [http://arxiv.org/abs/2111.04237v1](http://arxiv.org/abs/2111.04237v1)
+- 2021-11-04, **Voxel-based 3D Detection and Reconstruction of Multiple Objects from a Single Image**, Feng Liu et.al., Paper: [http://arxiv.org/abs/2111.03098v1](http://arxiv.org/abs/2111.03098v1)
 
 ## Image Matching
 
@@ -101,4 +125,8 @@
 - 2021-11-29, **Nonlinear Intensity Underwater Sonar Image Matching Method Based on Phase Information and Deep Convolution Features**, Xiaoteng Zhou et.al., Paper: [http://arxiv.org/abs/2111.15514v1](http://arxiv.org/abs/2111.15514v1)
 - 2021-11-29, **Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic**, Yoad Tewel et.al., Paper: [http://arxiv.org/abs/2111.14447v1](http://arxiv.org/abs/2111.14447v1), Code: **[https://github.com/yoadtew/zero-shot-image-to-text](https://github.com/yoadtew/zero-shot-image-to-text)**
 - 2021-11-29, **Heterogeneous Visible-Thermal and Visible-Infrared Face Recognition using Unit-Class Loss and Cross-Modality Discriminator**, Usman Cheema et.al., Paper: [http://arxiv.org/abs/2111.14339v1](http://arxiv.org/abs/2111.14339v1)
+- 2021-11-23, **Probabilistic Spatial Distribution Prior Based Attentional Keypoints Matching Network**, Xiaoming Zhao et.al., Paper: [http://arxiv.org/abs/2111.09006v2](http://arxiv.org/abs/2111.09006v2)
+- 2021-12-15, **Nonlinear Intensity Sonar Image Matching based on Deep Convolution Features**, Xiaoteng Zhou et.al., Paper: [http://arxiv.org/abs/2111.08994v3](http://arxiv.org/abs/2111.08994v3)
+- 2021-10-30, **A Deep Search for Faint Chandra X-ray Sources, Radio Sources, and Optical Counterparts in NGC 6752**, Haldan N. Cohn et.al., Paper: [http://arxiv.org/abs/2111.00357v1](http://arxiv.org/abs/2111.00357v1)
+- 2021-10-01, **Robustly Removing Deep Sea Lighting Effects for Visual Mapping of Abyssal Plains**, Kevin Köser et.al., Paper: [http://arxiv.org/abs/2110.00480v1](http://arxiv.org/abs/2110.00480v1)
 
