@@ -2,6 +2,9 @@
 
 ## SLAM
 
+- 2022-02-23, **MITI: SLAM Benchmark for Laparoscopic Surgery**, Regine Hartwig et.al., Paper: [http://arxiv.org/abs/2202.11496v1](http://arxiv.org/abs/2202.11496v1)
+- 2022-02-23, **DL-SLOT: Dynamic Lidar SLAM and Object Tracking Based On Graph Optimization**, Xuebo Tian et.al., Paper: [http://arxiv.org/abs/2202.11431v1](http://arxiv.org/abs/2202.11431v1)
+- 2022-02-23, **Are We Ready for Robust and Resilient SLAM? A Framework For Quantitative Characterization of SLAM Datasets**, Islam Ali et.al., Paper: [http://arxiv.org/abs/2202.11312v1](http://arxiv.org/abs/2202.11312v1)
 - 2022-02-22, **SAGE: SLAM with Appearance and Geometry Prior for Endoscopy**, Xingtong Liu et.al., Paper: [http://arxiv.org/abs/2202.09487v2](http://arxiv.org/abs/2202.09487v2), Code: **[https://github.com/lppllppl920/sage-slam](https://github.com/lppllppl920/sage-slam)**
 - 2022-02-18, **OKVIS2: Realtime Scalable Visual-Inertial SLAM with Loop Closure**, Stefan Leutenegger et.al., Paper: [http://arxiv.org/abs/2202.09199v1](http://arxiv.org/abs/2202.09199v1)
 - 2022-02-18, **MultiRes-NetVLAD: Augmenting Place Recognition Training with Low-Resolution Imagery**, Ahmad Khaliq et.al., Paper: [http://arxiv.org/abs/2202.09146v1](http://arxiv.org/abs/2202.09146v1), Code: **[https://github.com/ahmedest61/multires-netvlad](https://github.com/ahmedest61/multires-netvlad)**
@@ -59,6 +62,8 @@
 
 ## Visual Localization
 
+- 2022-02-23, **Deep Bayesian ICP Covariance Estimation**, Andrea De Maio et.al., Paper: [http://arxiv.org/abs/2202.11607v1](http://arxiv.org/abs/2202.11607v1)
+- 2022-02-23, **DL-SLOT: Dynamic Lidar SLAM and Object Tracking Based On Graph Optimization**, Xuebo Tian et.al., Paper: [http://arxiv.org/abs/2202.11431v1](http://arxiv.org/abs/2202.11431v1)
 - 2022-02-18, **MultiRes-NetVLAD: Augmenting Place Recognition Training with Low-Resolution Imagery**, Ahmad Khaliq et.al., Paper: [http://arxiv.org/abs/2202.09146v1](http://arxiv.org/abs/2202.09146v1), Code: **[https://github.com/ahmedest61/multires-netvlad](https://github.com/ahmedest61/multires-netvlad)**
 - 2022-02-14, **Tightly Coupled Learning Strategy for Weakly Supervised Hierarchical Place Recognition**, Y. Shen et.al., Paper: [http://arxiv.org/abs/2202.06470v1](http://arxiv.org/abs/2202.06470v1)
 - 2022-02-11, **Patch-NetVLAD+: Learned patch descriptor and weighted matching strategy for place recognition**, Yingfeng Cai et.al., Paper: [http://arxiv.org/abs/2202.05738v1](http://arxiv.org/abs/2202.05738v1)
