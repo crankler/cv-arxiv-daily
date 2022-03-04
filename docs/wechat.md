@@ -1,8 +1,8 @@
-> Updated on 2022.03.03
+> Updated on 2022.03.04
 
 ## SLAM
 
-- 2022-03-02, **FAST-LIVO: Fast and Tightly-coupled Sparse-Direct LiDAR-Inertial-Visual Odometry**, Chunran Zheng et.al., Paper: [http://arxiv.org/abs/2203.00893v1](http://arxiv.org/abs/2203.00893v1)
+- 2022-03-02, **FAST-LIVO: Fast and Tightly-coupled Sparse-Direct LiDAR-Inertial-Visual Odometry**, Chunran Zheng et.al., Paper: [http://arxiv.org/abs/2203.00893v1](http://arxiv.org/abs/2203.00893v1), Code: **[https://github.com/hku-mars/fast-livo](https://github.com/hku-mars/fast-livo)**
 - 2022-03-02, **Distributed Riemannian Optimization with Lazy Communication for Collaborative Geometric Estimation**, Yulun Tian et.al., Paper: [http://arxiv.org/abs/2203.00851v1](http://arxiv.org/abs/2203.00851v1)
 - 2022-03-01, **Descriptellation: Deep Learned Constellation Descriptors for SLAM**, Chunwei Xing et.al., Paper: [http://arxiv.org/abs/2203.00567v1](http://arxiv.org/abs/2203.00567v1)
 - 2022-03-01, **Collaborative Robot Mapping using Spectral Graph Analysis**, Lukas Bernreiter et.al., Paper: [http://arxiv.org/abs/2203.00308v1](http://arxiv.org/abs/2203.00308v1)
@@ -74,7 +74,7 @@
 
 - 2022-03-02, **Vision-based Large-scale 3D Semantic Mapping for Autonomous Driving Applications**, Qing Cheng et.al., Paper: [http://arxiv.org/abs/2203.01087v1](http://arxiv.org/abs/2203.01087v1)
 - 2022-03-02, **Asynchronous Optimisation for Event-based Visual Odometry**, Daqi Liu et.al., Paper: [http://arxiv.org/abs/2203.01037v1](http://arxiv.org/abs/2203.01037v1)
-- 2022-03-02, **FAST-LIVO: Fast and Tightly-coupled Sparse-Direct LiDAR-Inertial-Visual Odometry**, Chunran Zheng et.al., Paper: [http://arxiv.org/abs/2203.00893v1](http://arxiv.org/abs/2203.00893v1)
+- 2022-03-02, **FAST-LIVO: Fast and Tightly-coupled Sparse-Direct LiDAR-Inertial-Visual Odometry**, Chunran Zheng et.al., Paper: [http://arxiv.org/abs/2203.00893v1](http://arxiv.org/abs/2203.00893v1), Code: **[https://github.com/hku-mars/fast-livo](https://github.com/hku-mars/fast-livo)**
 - 2022-03-01, **SwitchHit: A Probabilistic, Complementarity-Based Switching System for Improved Visual Place Recognition in Changing Environments**, Maria Waheed et.al., Paper: [http://arxiv.org/abs/2203.00591v1](http://arxiv.org/abs/2203.00591v1)
 - 2022-03-01, **FP-Loc: Lightweight and Drift-free Floor Plan-assisted LiDAR Localization**, Ling Gao et.al., Paper: [http://arxiv.org/abs/2203.00292v1](http://arxiv.org/abs/2203.00292v1)
 - 2022-03-01, **Efficient Globally-Optimal Correspondence-Less Visual Odometry for Planar Ground Vehicles**, Ling Gao et.al., Paper: [http://arxiv.org/abs/2203.00291v1](http://arxiv.org/abs/2203.00291v1)
