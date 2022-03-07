@@ -3,7 +3,7 @@
 ## SLAM
 
 - 2022-03-03, **STUN: Self-Teaching Uncertainty Estimation for Place Recognition**, Kaiwen Cai et.al., Paper: [http://arxiv.org/abs/2203.01851v1](http://arxiv.org/abs/2203.01851v1), Code: **[https://github.com/ramdrop/stun](https://github.com/ramdrop/stun)**
-- 2022-03-03, **Continual SLAM: Beyond Lifelong Simultaneous Localization and Mapping through Continual Learning**, Niclas Vödisch et.al., Paper: [http://arxiv.org/abs/2203.01578v1](http://arxiv.org/abs/2203.01578v1)
+- 2022-03-03, **Continual SLAM: Beyond Lifelong Simultaneous Localization and Mapping through Continual Learning**, Niclas Vödisch et.al., Paper: [http://arxiv.org/abs/2203.01578v1](http://arxiv.org/abs/2203.01578v1), Code: **[https://github.com/robot-learning-freiburg/CL-SLAM](https://github.com/robot-learning-freiburg/CL-SLAM)**
 - 2022-03-02, **FAST-LIVO: Fast and Tightly-coupled Sparse-Direct LiDAR-Inertial-Visual Odometry**, Chunran Zheng et.al., Paper: [http://arxiv.org/abs/2203.00893v1](http://arxiv.org/abs/2203.00893v1), Code: **[https://github.com/hku-mars/fast-livo](https://github.com/hku-mars/fast-livo)**
 - 2022-03-02, **Distributed Riemannian Optimization with Lazy Communication for Collaborative Geometric Estimation**, Yulun Tian et.al., Paper: [http://arxiv.org/abs/2203.00851v1](http://arxiv.org/abs/2203.00851v1)
 - 2022-03-01, **Descriptellation: Deep Learned Constellation Descriptors for SLAM**, Chunwei Xing et.al., Paper: [http://arxiv.org/abs/2203.00567v1](http://arxiv.org/abs/2203.00567v1)
@@ -74,7 +74,7 @@
 
 ## Visual Localization
 
-- 2022-03-03, **Continual SLAM: Beyond Lifelong Simultaneous Localization and Mapping through Continual Learning**, Niclas Vödisch et.al., Paper: [http://arxiv.org/abs/2203.01578v1](http://arxiv.org/abs/2203.01578v1)
+- 2022-03-03, **Continual SLAM: Beyond Lifelong Simultaneous Localization and Mapping through Continual Learning**, Niclas Vödisch et.al., Paper: [http://arxiv.org/abs/2203.01578v1](http://arxiv.org/abs/2203.01578v1), Code: **[https://github.com/robot-learning-freiburg/CL-SLAM](https://github.com/robot-learning-freiburg/CL-SLAM)**
 - 2022-03-02, **Vision-based Large-scale 3D Semantic Mapping for Autonomous Driving Applications**, Qing Cheng et.al., Paper: [http://arxiv.org/abs/2203.01087v1](http://arxiv.org/abs/2203.01087v1)
 - 2022-03-02, **Asynchronous Optimisation for Event-based Visual Odometry**, Daqi Liu et.al., Paper: [http://arxiv.org/abs/2203.01037v1](http://arxiv.org/abs/2203.01037v1)
 - 2022-03-02, **FAST-LIVO: Fast and Tightly-coupled Sparse-Direct LiDAR-Inertial-Visual Odometry**, Chunran Zheng et.al., Paper: [http://arxiv.org/abs/2203.00893v1](http://arxiv.org/abs/2203.00893v1), Code: **[https://github.com/hku-mars/fast-livo](https://github.com/hku-mars/fast-livo)**
