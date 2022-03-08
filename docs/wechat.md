@@ -2,6 +2,10 @@
 
 ## SLAM
 
+- 2022-03-07, **Multi-Modal Lidar Dataset for Benchmarking General-Purpose Localization and Mapping Algorithms**, Qingqing Li et.al., Paper: [http://arxiv.org/abs/2203.03454v1](http://arxiv.org/abs/2203.03454v1)
+- 2022-03-07, **OverlapTransformer: An Efficient and Rotation-Invariant Transformer Network for LiDAR-Based Place Recognition**, Junyi Ma et.al., Paper: [http://arxiv.org/abs/2203.03397v1](http://arxiv.org/abs/2203.03397v1), Code: **[https://github.com/haomo-ai/OverlapTransformer](https://github.com/haomo-ai/OverlapTransformer)**
+- 2022-03-06, **Minimum Cost Multicuts for Incorrect Landmark Edge Detection in Pose-graph SLAM**, Kazushi Aiba et.al., Paper: [http://arxiv.org/abs/2203.02887v1](http://arxiv.org/abs/2203.02887v1)
+- 2022-03-06, **RGB-D SLAM in Indoor Planar Environments with Multiple Large Dynamic Objects**, Ran Long et.al., Paper: [http://arxiv.org/abs/2203.02882v1](http://arxiv.org/abs/2203.02882v1)
 - 2022-03-03, **STUN: Self-Teaching Uncertainty Estimation for Place Recognition**, Kaiwen Cai et.al., Paper: [http://arxiv.org/abs/2203.01851v1](http://arxiv.org/abs/2203.01851v1), Code: **[https://github.com/ramdrop/stun](https://github.com/ramdrop/stun)**
 - 2022-03-03, **Continual SLAM: Beyond Lifelong Simultaneous Localization and Mapping through Continual Learning**, Niclas Vödisch et.al., Paper: [http://arxiv.org/abs/2203.01578v1](http://arxiv.org/abs/2203.01578v1), Code: **[https://github.com/robot-learning-freiburg/CL-SLAM](https://github.com/robot-learning-freiburg/CL-SLAM)**
 - 2022-03-02, **FAST-LIVO: Fast and Tightly-coupled Sparse-Direct LiDAR-Inertial-Visual Odometry**, Chunran Zheng et.al., Paper: [http://arxiv.org/abs/2203.00893v1](http://arxiv.org/abs/2203.00893v1), Code: **[https://github.com/hku-mars/fast-livo](https://github.com/hku-mars/fast-livo)**
@@ -15,6 +19,7 @@
 - 2022-02-23, **MITI: SLAM Benchmark for Laparoscopic Surgery**, Regine Hartwig et.al., Paper: [http://arxiv.org/abs/2202.11496v1](http://arxiv.org/abs/2202.11496v1)
 - 2022-02-23, **DL-SLOT: Dynamic Lidar SLAM and Object Tracking Based On Graph Optimization**, Xuebo Tian et.al., Paper: [http://arxiv.org/abs/2202.11431v1](http://arxiv.org/abs/2202.11431v1)
 - 2022-02-23, **Are We Ready for Robust and Resilient SLAM? A Framework For Quantitative Characterization of SLAM Datasets**, Islam Ali et.al., Paper: [http://arxiv.org/abs/2202.11312v1](http://arxiv.org/abs/2202.11312v1)
+- 2022-03-07, **Confidence-rich Localization and Mapping based on Particle Filter for Robotic Exploration**, Yang Xu et.al., Paper: [http://arxiv.org/abs/2202.09631v2](http://arxiv.org/abs/2202.09631v2)
 - 2022-02-22, **SAGE: SLAM with Appearance and Geometry Prior for Endoscopy**, Xingtong Liu et.al., Paper: [http://arxiv.org/abs/2202.09487v2](http://arxiv.org/abs/2202.09487v2), Code: **[https://github.com/lppllppl920/sage-slam](https://github.com/lppllppl920/sage-slam)**
 - 2022-02-18, **OKVIS2: Realtime Scalable Visual-Inertial SLAM with Loop Closure**, Stefan Leutenegger et.al., Paper: [http://arxiv.org/abs/2202.09199v1](http://arxiv.org/abs/2202.09199v1)
 - 2022-02-18, **MultiRes-NetVLAD: Augmenting Place Recognition Training with Low-Resolution Imagery**, Ahmad Khaliq et.al., Paper: [http://arxiv.org/abs/2202.09146v1](http://arxiv.org/abs/2202.09146v1), Code: **[https://github.com/ahmedest61/multires-netvlad](https://github.com/ahmedest61/multires-netvlad)**
@@ -67,13 +72,15 @@
 - 2021-10-14, **Modeling dynamic target deformation in camera calibration**, Annika Hagemann et.al., Paper: [http://arxiv.org/abs/2110.07322v1](http://arxiv.org/abs/2110.07322v1)
 - 2021-10-13, **Hyperspectral 3D Mapping of Underwater Environments**, Maxime Ferrera et.al., Paper: [http://arxiv.org/abs/2110.06571v1](http://arxiv.org/abs/2110.06571v1)
 - 2021-09-16, **Rotation Averaging in a Split Second: A Primal-Dual Method and a Closed-Form for Cycle Graphs**, Gabriel Moreira et.al., Paper: [http://arxiv.org/abs/2109.08046v1](http://arxiv.org/abs/2109.08046v1), Code: **[https://github.com/gabmoreira/maks](https://github.com/gabmoreira/maks)**
-- 2021-09-06, **Single-Camera 3D Head Fitting for Mixed Reality Clinical Applications**, Tejas Mane et.al., Paper: [http://arxiv.org/abs/2109.02740v1](http://arxiv.org/abs/2109.02740v1)
+- 2022-03-07, **Single-Camera 3D Head Fitting for Mixed Reality Clinical Applications**, Tejas Mane et.al., Paper: [http://arxiv.org/abs/2109.02740v2](http://arxiv.org/abs/2109.02740v2)
 - 2021-09-02, **Dynamic Scene Novel View Synthesis via Deferred Spatio-temporal Consistency**, Beatrix-Emőke Fülöp-Balogh et.al., Paper: [http://arxiv.org/abs/2109.01018v1](http://arxiv.org/abs/2109.01018v1)
 - 2021-09-01, **On the Limits of Pseudo Ground Truth in Visual Camera Re-localisation**, Eric Brachmann et.al., Paper: [http://arxiv.org/abs/2109.00524v1](http://arxiv.org/abs/2109.00524v1), Code: **[https://github.com/tsattler/visloc_pseudo_gt_limitations](https://github.com/tsattler/visloc_pseudo_gt_limitations)**
 - 2021-08-31, **DensePose 3D: Lifting Canonical Surface Maps of Articulated Objects to the Third Dimension**, Roman Shapovalov et.al., Paper: [http://arxiv.org/abs/2109.00033v1](http://arxiv.org/abs/2109.00033v1)
 
 ## Visual Localization
 
+- 2022-03-07, **ZippyPoint: Fast Interest Point Detection, Description, and Matching through Mixed Precision Discretization**, Simon Maurer et.al., Paper: [http://arxiv.org/abs/2203.03610v1](http://arxiv.org/abs/2203.03610v1)
+- 2022-03-07, **Multi-Modal Lidar Dataset for Benchmarking General-Purpose Localization and Mapping Algorithms**, Qingqing Li et.al., Paper: [http://arxiv.org/abs/2203.03454v1](http://arxiv.org/abs/2203.03454v1)
 - 2022-03-03, **Continual SLAM: Beyond Lifelong Simultaneous Localization and Mapping through Continual Learning**, Niclas Vödisch et.al., Paper: [http://arxiv.org/abs/2203.01578v1](http://arxiv.org/abs/2203.01578v1), Code: **[https://github.com/robot-learning-freiburg/CL-SLAM](https://github.com/robot-learning-freiburg/CL-SLAM)**
 - 2022-03-02, **Vision-based Large-scale 3D Semantic Mapping for Autonomous Driving Applications**, Qing Cheng et.al., Paper: [http://arxiv.org/abs/2203.01087v1](http://arxiv.org/abs/2203.01087v1)
 - 2022-03-02, **Asynchronous Optimisation for Event-based Visual Odometry**, Daqi Liu et.al., Paper: [http://arxiv.org/abs/2203.01037v1](http://arxiv.org/abs/2203.01037v1)
@@ -123,6 +130,7 @@
 
 ## Keypoint Detection
 
+- 2022-03-07, **Weakly Supervised Learning of Keypoints for 6D Object Pose Estimation**, Meng Tian et.al., Paper: [http://arxiv.org/abs/2203.03498v1](http://arxiv.org/abs/2203.03498v1)
 - 2022-02-10, **Motion-Aware Transformer For Occluded Person Re-identification**, Mi Zhou et.al., Paper: [http://arxiv.org/abs/2202.04243v2](http://arxiv.org/abs/2202.04243v2)
 - 2022-02-03, **Sim2Real Object-Centric Keypoint Detection and Description**, Chengliang Zhong et.al., Paper: [http://arxiv.org/abs/2202.00448v2](http://arxiv.org/abs/2202.00448v2)
 - 2022-01-16, **Cross-Centroid Ripple Pattern for Facial Expression Recognition**, Monu Verma et.al., Paper: [http://arxiv.org/abs/2201.05958v1](http://arxiv.org/abs/2201.05958v1)
@@ -146,6 +154,7 @@
 
 ## Image Matching
 
+- 2022-03-05, **Cross Language Image Matching for Weakly Supervised Semantic Segmentation**, Jinheng Xie et.al., Paper: [http://arxiv.org/abs/2203.02668v1](http://arxiv.org/abs/2203.02668v1)
 - 2022-03-01, **CLIP-GEN: Language-Free Training of a Text-to-Image Generator with CLIP**, Zihao Wang et.al., Paper: [http://arxiv.org/abs/2203.00386v1](http://arxiv.org/abs/2203.00386v1)
 - 2022-02-27, **Time-resolved Imaging of Stochastic Cascade Reactions over a Submillisecond to Second Time Range at the Angstrom Level**, Toshiki Shimizu et.al., Paper: [http://arxiv.org/abs/2202.13332v1](http://arxiv.org/abs/2202.13332v1)
 - 2022-02-16, **Cross-view and Cross-domain Underwater Localization based on Optical Aerial and Acoustic Underwater Images**, Matheus M. Dos Santos et.al., Paper: [http://arxiv.org/abs/2202.07817v1](http://arxiv.org/abs/2202.07817v1)
