@@ -2,6 +2,8 @@
 
 ## SLAM
 
+- 2022-03-11, **An Efficient Accelerator for Deep Learning-based Point Cloud Registration on FPGAs**, Keisuke Sugiura et.al., Paper: [http://arxiv.org/abs/2203.05763v1](http://arxiv.org/abs/2203.05763v1)
+- 2022-03-10, **High Definition, Inexpensive, Underwater Mapping**, Bharat Joshi et.al., Paper: [http://arxiv.org/abs/2203.05640v1](http://arxiv.org/abs/2203.05640v1)
 - 2022-03-10, **SelfTune: Metrically Scaled Monocular Depth Estimation through Self-Supervised Learning**, Jaehoon Choi et.al., Paper: [http://arxiv.org/abs/2203.05332v1](http://arxiv.org/abs/2203.05332v1)
 - 2022-03-08, **Tune your Place Recognition: Self-Supervised Domain Calibration via Robust SLAM**, Pierre-Yves Lajoie et.al., Paper: [http://arxiv.org/abs/2203.04446v1](http://arxiv.org/abs/2203.04446v1)
 - 2022-03-08, **SLAM-Supported Self-Training for 6D Object Pose Estimation**, Ziqi Lu et.al., Paper: [http://arxiv.org/abs/2203.04424v1](http://arxiv.org/abs/2203.04424v1), Code: **[https://github.com/520xyxyzq/slam-super-6d](https://github.com/520xyxyzq/slam-super-6d)**
@@ -83,6 +85,8 @@
 
 ## Visual Localization
 
+- 2022-03-11, **Towards Scale Consistent Monocular Visual Odometry by Learning from the Virtual World**, Sen Zhang et.al., Paper: [http://arxiv.org/abs/2203.05712v1](http://arxiv.org/abs/2203.05712v1)
+- 2022-03-11, **Learning-based Localizability Estimation for Robust LiDAR Localization**, Julian Nubert et.al., Paper: [http://arxiv.org/abs/2203.05698v1](http://arxiv.org/abs/2203.05698v1), Code: **[https://github.com/leggedrobotics/lidar_loc](https://github.com/leggedrobotics/lidar_loc)**
 - 2022-03-10, **ReF -- Rotation Equivariant Features for Local Feature Matching**, Abhishek Peri et.al., Paper: [http://arxiv.org/abs/2203.05206v1](http://arxiv.org/abs/2203.05206v1)
 - 2022-03-09, **A high-precision self-supervised monocular visual odometry in foggy weather based on robust cycled generative adversarial networks and multi-task learning aided depth estimation**, Xiuyuan Li et.al., Paper: [http://arxiv.org/abs/2203.04812v1](http://arxiv.org/abs/2203.04812v1)
 - 2022-03-09, **Object-Based Visual Camera Pose Estimation From Ellipsoidal Model and 3D-Aware Ellipse Prediction**, Matthieu Zins et.al., Paper: [http://arxiv.org/abs/2203.04613v1](http://arxiv.org/abs/2203.04613v1)
@@ -138,6 +142,7 @@
 
 ## Keypoint Detection
 
+- 2022-03-11, **DRTAM: Dual Rank-1 Tensor Attention Module**, Hanxing Chi et.al., Paper: [http://arxiv.org/abs/2203.05893v1](http://arxiv.org/abs/2203.05893v1)
 - 2022-03-07, **Weakly Supervised Learning of Keypoints for 6D Object Pose Estimation**, Meng Tian et.al., Paper: [http://arxiv.org/abs/2203.03498v1](http://arxiv.org/abs/2203.03498v1)
 - 2022-02-10, **Motion-Aware Transformer For Occluded Person Re-identification**, Mi Zhou et.al., Paper: [http://arxiv.org/abs/2202.04243v2](http://arxiv.org/abs/2202.04243v2)
 - 2022-02-03, **Sim2Real Object-Centric Keypoint Detection and Description**, Chengliang Zhong et.al., Paper: [http://arxiv.org/abs/2202.00448v2](http://arxiv.org/abs/2202.00448v2)
