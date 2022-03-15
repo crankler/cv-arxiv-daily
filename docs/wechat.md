@@ -2,6 +2,7 @@
 
 ## SLAM
 
+- 2022-03-14, **Drift Reduced Navigation with Deep Explainable Features**, Mohd Omama et.al., Paper: [http://arxiv.org/abs/2203.06897v1](http://arxiv.org/abs/2203.06897v1)
 - 2022-03-11, **An Efficient Accelerator for Deep Learning-based Point Cloud Registration on FPGAs**, Keisuke Sugiura et.al., Paper: [http://arxiv.org/abs/2203.05763v1](http://arxiv.org/abs/2203.05763v1)
 - 2022-03-10, **High Definition, Inexpensive, Underwater Mapping**, Bharat Joshi et.al., Paper: [http://arxiv.org/abs/2203.05640v1](http://arxiv.org/abs/2203.05640v1)
 - 2022-03-10, **SelfTune: Metrically Scaled Monocular Depth Estimation through Self-Supervised Learning**, Jaehoon Choi et.al., Paper: [http://arxiv.org/abs/2203.05332v1](http://arxiv.org/abs/2203.05332v1)
@@ -85,6 +86,7 @@
 
 ## Visual Localization
 
+- 2022-03-14, **RAUM-VO: Rotational Adjusted Unsupervised Monocular Visual Odometry**, Claudio Cimarelli et.al., Paper: [http://arxiv.org/abs/2203.07162v1](http://arxiv.org/abs/2203.07162v1)
 - 2022-03-11, **Towards Scale Consistent Monocular Visual Odometry by Learning from the Virtual World**, Sen Zhang et.al., Paper: [http://arxiv.org/abs/2203.05712v1](http://arxiv.org/abs/2203.05712v1)
 - 2022-03-11, **Learning-based Localizability Estimation for Robust LiDAR Localization**, Julian Nubert et.al., Paper: [http://arxiv.org/abs/2203.05698v1](http://arxiv.org/abs/2203.05698v1), Code: **[https://github.com/leggedrobotics/lidar_loc](https://github.com/leggedrobotics/lidar_loc)**
 - 2022-03-10, **ReF -- Rotation Equivariant Features for Local Feature Matching**, Abhishek Peri et.al., Paper: [http://arxiv.org/abs/2203.05206v1](http://arxiv.org/abs/2203.05206v1)
