@@ -2,6 +2,7 @@
 
 ## SLAM
 
+- 2022-03-19, **Hybrid Active and Passive Sensing for SLAM in Wireless Communication Systems**, Jie Yang et.al., Paper: [http://arxiv.org/abs/2203.10267v1](http://arxiv.org/abs/2203.10267v1)
 - 2022-03-16, **Any Way You Look At It: Semantic Crossview Localization and Mapping with LiDAR**, Ian D. Miller et.al., Paper: [http://arxiv.org/abs/2203.08925v1](http://arxiv.org/abs/2203.08925v1), Code: **[https://github.com/iandouglas96/cross_view_slam](https://github.com/iandouglas96/cross_view_slam)**
 - 2022-03-15, **Neural RF SLAM for unsupervised positioning and mapping with channel state information**, Shreya Kadambi et.al., Paper: [http://arxiv.org/abs/2203.08264v1](http://arxiv.org/abs/2203.08264v1)
 - 2022-03-15, **Simultaneous Localisation and Mapping with Quadric Surfaces**, Tristan Laidlow et.al., Paper: [http://arxiv.org/abs/2203.08040v1](http://arxiv.org/abs/2203.08040v1)
@@ -63,6 +64,7 @@
 
 ## SFM
 
+- 2022-03-21, **DiffPoseNet: Direct Differentiable Camera Pose Estimation**, Chethan M. Parameshwara et.al., Paper: [http://arxiv.org/abs/2203.11174v1](http://arxiv.org/abs/2203.11174v1)
 - 2022-03-02, **Asynchronous Optimisation for Event-based Visual Odometry**, Daqi Liu et.al., Paper: [http://arxiv.org/abs/2203.01037v1](http://arxiv.org/abs/2203.01037v1)
 - 2022-03-02, **Distributed Riemannian Optimization with Lazy Communication for Collaborative Geometric Estimation**, Yulun Tian et.al., Paper: [http://arxiv.org/abs/2203.00851v1](http://arxiv.org/abs/2203.00851v1)
 - 2022-02-18, **MultiRes-NetVLAD: Augmenting Place Recognition Training with Low-Resolution Imagery**, Ahmad Khaliq et.al., Paper: [http://arxiv.org/abs/2202.09146v1](http://arxiv.org/abs/2202.09146v1), Code: **[https://github.com/ahmedest61/multires-netvlad](https://github.com/ahmedest61/multires-netvlad)**
@@ -89,6 +91,8 @@
 
 ## Visual Localization
 
+- 2022-03-20, **Lateral Ego-Vehicle Control without Supervision using Point Clouds**, Florian Müller et.al., Paper: [http://arxiv.org/abs/2203.10662v1](http://arxiv.org/abs/2203.10662v1)
+- 2022-03-18, **Should Radar Replace Lidar in All-Weather Mapping and Localization?**, Keenan Burnett et.al., Paper: [http://arxiv.org/abs/2203.10174v1](http://arxiv.org/abs/2203.10174v1)
 - 2022-03-18, **Lunar Rover Localization Using Craters as Landmarks**, Larry Matthies et.al., Paper: [http://arxiv.org/abs/2203.10073v1](http://arxiv.org/abs/2203.10073v1)
 - 2022-03-17, **MatchFormer: Interleaving Attention in Transformers for Feature Matching**, Qing Wang et.al., Paper: [http://arxiv.org/abs/2203.09645v1](http://arxiv.org/abs/2203.09645v1)
 - 2022-03-14, **RAUM-VO: Rotational Adjusted Unsupervised Monocular Visual Odometry**, Claudio Cimarelli et.al., Paper: [http://arxiv.org/abs/2203.07162v1](http://arxiv.org/abs/2203.07162v1)
@@ -193,7 +197,7 @@
 - 2021-12-14, **More Control for Free! Image Synthesis with Semantic Diffusion Guidance**, Xihui Liu et.al., Paper: [http://arxiv.org/abs/2112.05744v2](http://arxiv.org/abs/2112.05744v2)
 - 2021-12-08, **Label-free virtual HER2 immunohistochemical staining of breast tissue using deep learning**, Bijie Bai et.al., Paper: [http://arxiv.org/abs/2112.05240v1](http://arxiv.org/abs/2112.05240v1)
 - 2021-12-01, **FaSS-MVS -- Fast Multi-View Stereo with Surface-Aware Semi-Global Matching from UAV-borne Monocular Imagery**, Boitumelo Ruf et.al., Paper: [http://arxiv.org/abs/2112.00821v1](http://arxiv.org/abs/2112.00821v1)
-- 2022-03-19, **CLIPstyler: Image Style Transfer with a Single Text Condition**, Gihyun Kwon et.al., Paper: [http://arxiv.org/abs/2112.00374v3](http://arxiv.org/abs/2112.00374v3), Code: **[https://github.com/paper11667/clipstyler](https://github.com/paper11667/clipstyler)**
+- 2022-03-19, **CLIPstyler: Image Style Transfer with a Single Text Condition**, Gihyun Kwon et.al., Paper: [http://arxiv.org/abs/2112.00374v3](http://arxiv.org/abs/2112.00374v3), Code: **[https://github.com/cyclomon/clipstyler](https://github.com/cyclomon/clipstyler)**
 - 2021-11-29, **Nonlinear Intensity Underwater Sonar Image Matching Method Based on Phase Information and Deep Convolution Features**, Xiaoteng Zhou et.al., Paper: [http://arxiv.org/abs/2111.15514v1](http://arxiv.org/abs/2111.15514v1)
 - 2021-11-29, **Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic**, Yoad Tewel et.al., Paper: [http://arxiv.org/abs/2111.14447v1](http://arxiv.org/abs/2111.14447v1), Code: **[https://github.com/yoadtew/zero-shot-image-to-text](https://github.com/yoadtew/zero-shot-image-to-text)**
 - 2021-11-29, **Heterogeneous Visible-Thermal and Visible-Infrared Face Recognition using Unit-Class Loss and Cross-Modality Discriminator**, Usman Cheema et.al., Paper: [http://arxiv.org/abs/2111.14339v1](http://arxiv.org/abs/2111.14339v1)
