@@ -92,7 +92,7 @@
 ## Visual Localization
 
 - 2022-03-20, **Lateral Ego-Vehicle Control without Supervision using Point Clouds**, Florian Müller et.al., Paper: [http://arxiv.org/abs/2203.10662v1](http://arxiv.org/abs/2203.10662v1)
-- 2022-03-18, **Should Radar Replace Lidar in All-Weather Mapping and Localization?**, Keenan Burnett et.al., Paper: [http://arxiv.org/abs/2203.10174v1](http://arxiv.org/abs/2203.10174v1)
+- 2022-03-18, **Should Radar Replace Lidar in All-Weather Mapping and Localization?**, Keenan Burnett et.al., Paper: [http://arxiv.org/abs/2203.10174v1](http://arxiv.org/abs/2203.10174v1), Code: **[https://github.com/utiasasrl/vtr3](https://github.com/utiasasrl/vtr3)**
 - 2022-03-18, **Lunar Rover Localization Using Craters as Landmarks**, Larry Matthies et.al., Paper: [http://arxiv.org/abs/2203.10073v1](http://arxiv.org/abs/2203.10073v1)
 - 2022-03-21, **MatchFormer: Interleaving Attention in Transformers for Feature Matching**, Qing Wang et.al., Paper: [http://arxiv.org/abs/2203.09645v2](http://arxiv.org/abs/2203.09645v2), Code: **[https://github.com/jamycheung/matchformer](https://github.com/jamycheung/matchformer)**
 - 2022-03-14, **RAUM-VO: Rotational Adjusted Unsupervised Monocular Visual Odometry**, Claudio Cimarelli et.al., Paper: [http://arxiv.org/abs/2203.07162v1](http://arxiv.org/abs/2203.07162v1)
