@@ -2,6 +2,7 @@
 
 ## SLAM
 
+- 2022-03-30, **GTP-SLAM: Game-Theoretic Priors for Simultaneous Localization and Mapping in Multi-Agent Scenarios**, Chih-Yuan Chiu et.al., Paper: [http://arxiv.org/abs/2203.16690v1](http://arxiv.org/abs/2203.16690v1)
 - 2022-03-29, **Indoor SLAM Using a Foot-mounted IMU and the local Magnetic Field**, Mostafa Osman et.al., Paper: [http://arxiv.org/abs/2203.15866v1](http://arxiv.org/abs/2203.15866v1)
 - 2022-03-29, **Eventor: An Efficient Event-Based Monocular Multi-View Stereo Accelerator on FPGA Platform**, Mingjun Li et.al., Paper: [http://arxiv.org/abs/2203.15439v1](http://arxiv.org/abs/2203.15439v1)
 - 2022-03-29, **Sparse Image based Navigation Architecture to Mitigate the need of precise Localization in Mobile Robots**, Pranay Mathur et.al., Paper: [http://arxiv.org/abs/2203.15272v1](http://arxiv.org/abs/2203.15272v1)
@@ -73,7 +74,7 @@
 
 ## SFM
 
-- 2022-03-30, **Fast, Accurate and Memory-Efficient Partial Permutation Synchronization**, Shaohan Li et.al., Paper: [http://arxiv.org/abs/2203.16505v1](http://arxiv.org/abs/2203.16505v1)
+- 2022-03-31, **Fast, Accurate and Memory-Efficient Partial Permutation Synchronization**, Shaohan Li et.al., Paper: [http://arxiv.org/abs/2203.16505v2](http://arxiv.org/abs/2203.16505v2)
 - 2022-03-28, **Visual Odometry for RGB-D Cameras**, Afonso Fontes et.al., Paper: [http://arxiv.org/abs/2203.15119v1](http://arxiv.org/abs/2203.15119v1)
 - 2022-03-28, **Optimizing Elimination Templates by Greedy Parameter Search**, Evgeniy Martyushev et.al., Paper: [http://arxiv.org/abs/2203.14901v1](http://arxiv.org/abs/2203.14901v1)
 - 2022-03-23, **Event-Based Dense Reconstruction Pipeline**, Kun Xiao et.al., Paper: [http://arxiv.org/abs/2203.12270v1](http://arxiv.org/abs/2203.12270v1)
@@ -104,6 +105,7 @@
 
 ## Visual Localization
 
+- 2022-03-31, **Semantic Pose Verification for Outdoor Visual Localization with Self-supervised Contrastive Learning**, Semih Orhan et.al., Paper: [http://arxiv.org/abs/2203.16945v1](http://arxiv.org/abs/2203.16945v1)
 - 2022-03-30, **AmsterTime: A Visual Place Recognition Benchmark Dataset for Severe Domain Shift**, Burak Yildiz et.al., Paper: [http://arxiv.org/abs/2203.16291v1](http://arxiv.org/abs/2203.16291v1)
 - 2022-03-29, **Long-term Visual Map Sparsification with Heterogeneous GNN**, Ming-Fang Chang et.al., Paper: [http://arxiv.org/abs/2203.15182v1](http://arxiv.org/abs/2203.15182v1)
 - 2022-03-28, **Visual Odometry for RGB-D Cameras**, Afonso Fontes et.al., Paper: [http://arxiv.org/abs/2203.15119v1](http://arxiv.org/abs/2203.15119v1)
