@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.04.04
+## Updated on 2022.04.05
 
 ## SLAM
 
@@ -171,7 +171,7 @@ layout: default
 |**2022-03-29**|**Long-term Visual Map Sparsification with Heterogeneous GNN**|Ming-Fang Chang et.al.|[2203.15182v1](http://arxiv.org/abs/2203.15182v1)|null|
 |**2022-03-28**|**Visual Odometry for RGB-D Cameras**|Afonso Fontes et.al.|[2203.15119v1](http://arxiv.org/abs/2203.15119v1)|null|
 |**2022-03-25**|**Gravity-constrained point cloud registration**|Vladimír Kubelka et.al.|[2203.13799v1](http://arxiv.org/abs/2203.13799v1)|null|
-|**2022-04-01**|**A Simulation Benchmark for Vision-based Autonomous Navigation**|Lauri Suomela et.al.|[2203.13048v2](http://arxiv.org/abs/2203.13048v2)|null|
+|**2022-04-01**|**A Simulation Benchmark for Vision-based Autonomous Navigation**|Lauri Suomela et.al.|[2203.13048v2](http://arxiv.org/abs/2203.13048v2)|**[link](https://github.com/lasuomela/carla_vloc_benchmark)**|
 |**2022-03-24**|**Is Geometry Enough for Matching in Visual Localization?**|Qunjie Zhou et.al.|[2203.12979v1](http://arxiv.org/abs/2203.12979v1)|null|
 |**2022-03-20**|**Lateral Ego-Vehicle Control without Supervision using Point Clouds**|Florian Müller et.al.|[2203.10662v1](http://arxiv.org/abs/2203.10662v1)|null|
 |**2022-03-18**|**Should Radar Replace Lidar in All-Weather Mapping and Localization?**|Keenan Burnett et.al.|[2203.10174v1](http://arxiv.org/abs/2203.10174v1)|**[link](https://github.com/utiasasrl/vtr3)**|
