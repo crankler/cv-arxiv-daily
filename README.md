@@ -1,4 +1,4 @@
-## Updated on 2022.04.07
+## Updated on 2022.04.08
 
 ## SLAM
 
@@ -148,7 +148,7 @@
 |**2021-12-16**|**Road-aware Monocular Structure from Motion and Homography Estimation**|Wei Sui et.al.|[2112.08635v1](http://arxiv.org/abs/2112.08635v1)|null|
 |**2021-12-10**|**Critical configurations for three projective views**|Martin Bråtelund et.al.|[2112.05478v1](http://arxiv.org/abs/2112.05478v1)|null|
 |**2021-12-09**|**Critical configurations for two projective views, a new approach**|Martin Bråtelund et.al.|[2112.05074v1](http://arxiv.org/abs/2112.05074v1)|null|
-|**2021-12-06**|**Dense Depth Priors for Neural Radiance Fields from Sparse Input Views**|Barbara Roessle et.al.|[2112.03288v1](http://arxiv.org/abs/2112.03288v1)|null|
+|**2022-04-07**|**Dense Depth Priors for Neural Radiance Fields from Sparse Input Views**|Barbara Roessle et.al.|[2112.03288v2](http://arxiv.org/abs/2112.03288v2)|null|
 |**2021-12-10**|**MegBA: A High-Performance and Distributed Library for Large-Scale Bundle Adjustment**|Jie Ren et.al.|[2112.01349v2](http://arxiv.org/abs/2112.01349v2)|**[link](https://github.com/megviirobot/megba)**|
 |**2021-11-11**|**Multi-Resolution Elevation Mapping and Safe Landing Site Detection with Applications to Planetary Rotorcraft**|Pascal Schoppmann et.al.|[2111.06271v1](http://arxiv.org/abs/2111.06271v1)|null|
 |**2021-11-10**|**Damage Estimation and Localization from Sparse Aerial Imagery**|Rene Garcia Franceschini et.al.|[2111.03708v2](http://arxiv.org/abs/2111.03708v2)|null|
@@ -246,7 +246,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-04-06**|**Cloning Outfits from Real-World Images to 3D Characters for Generalizable Person Re-Identification**|Yanan Wang et.al.|[2204.02611v1](http://arxiv.org/abs/2204.02611v1)|**[link](https://github.com/yanan-wang-cs/clonedperson)**|
+|**2022-04-07**|**Cloning Outfits from Real-World Images to 3D Characters for Generalizable Person Re-Identification**|Yanan Wang et.al.|[2204.02611v2](http://arxiv.org/abs/2204.02611v2)|**[link](https://github.com/yanan-wang-cs/clonedperson)**|
 |**2022-04-02**|**SkeleVision: Towards Adversarial Resiliency of Person Tracking with Multi-Task Learning**|Nilaksh Das et.al.|[2204.00734v1](http://arxiv.org/abs/2204.00734v1)|**[link](https://github.com/nilakshdas/skelevision)**|
 |**2022-04-01**|**MS-HLMO: Multi-scale Histogram of Local Main Orientation for Remote Sensing Image Registration**|Chenzhong Gao et.al.|[2204.00260v1](http://arxiv.org/abs/2204.00260v1)|null|
 |**2022-03-29**|**Assessing Evolutionary Terrain Generation Methods for Curriculum Reinforcement Learning**|David Howard et.al.|[2203.15172v1](http://arxiv.org/abs/2203.15172v1)|null|
